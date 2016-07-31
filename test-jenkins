@@ -1,0 +1,2 @@
+$param="Hello welcome to Jenkins"
+write-host="$param"
