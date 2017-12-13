@@ -1,2 +1,3 @@
 $param="Hello welcome to Jenkins"
+$Welcome="Welcome Hubert"
 write-host="$param"
